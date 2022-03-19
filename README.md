@@ -9,5 +9,10 @@ There were many things, I have learnt as part of the tool utilization while acqu
 ## Boomi Certification
 [Associate Integration Developer](https://github.com/ParvinderKaur014/Portfolio/blob/main/Boomi%20Certification.PNG)
 
+Dell Boomi is a open source tool used to facilitate the integration between the systems. It eliminate data and application silos in the cloud and on-premises. Boomi’s drag and drop visual UI and low-code platform, increases efficiency and reduces errors with unique capabilities such as intelligent integration mapping and configuration, and error testing and resolution.
+With Boomi's fast integration programming, Blue Force Tracking can operate and scale to unlimited events and scenarios.
+
+I have acquire the certification in Associate Integration Developer.
+
 
 
