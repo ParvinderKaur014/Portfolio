@@ -6,6 +6,8 @@ Below are the list of the assignment, I have learnt,built and worked on in the v
 [Durham Learning](https://github.com/ParvinderKaur014/DATA1202_Assignment5)
 There were many things, I have learnt as part of the tool utilization while acquiring the analyst skill.
 
+[Covid Vaccination](https://github.com/ParvinderKaur014/Portfolio/blob/main/Covid-19%20World%20Vaccination%20Executive%20Summary.PNG)
+
 ## Boomi with Solace Certification
 BoomiCertified
 [Associate Integration Developer](https://github.com/ParvinderKaur014/Portfolio/blob/main/Boomi%20Certification.PNG)
