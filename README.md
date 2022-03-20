@@ -3,8 +3,8 @@
 <br />
 <p align="center">
   <h1 align="center">Developer's Portfolio ✨</h1>
+  
 ## My Journey!!!
-
 
 Below are the list of the assignment, I have learnt,built and worked on in the venture of building my roadmap and it is an on-going progress:
 
@@ -12,6 +12,7 @@ Below are the list of the assignment, I have learnt,built and worked on in the v
 There were many things, I have learnt as part of the tool utilization while acquiring the analyst skill.
 
 [Covid Vaccination](https://github.com/ParvinderKaur014/Portfolio/blob/main/Covid-19%20World%20Vaccination%20Executive%20Summary.PNG)
+Executive Summary for the Covid Vaccination 2019 
 
 ## Boomi with Solace Certification
 BoomiCertified
