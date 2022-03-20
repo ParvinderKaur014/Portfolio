@@ -1,6 +1,11 @@
 # Portfolio
+<!-- PROJECT LOGO -->
+<br />
+<p align="center">
+  <h1 align="center">Developer's Portfolio ✨</h1>
+## My Journey!!!
 
-## Future RoadMap in progress!!!
+
 Below are the list of the assignment, I have learnt,built and worked on in the venture of building my roadmap and it is an on-going progress:
 
 [Durham Learning](https://github.com/ParvinderKaur014/DATA1202_Assignment5)
