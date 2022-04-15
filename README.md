@@ -2,7 +2,7 @@
 ## RoadMap to My Future
 My primary goal is to assist and somehow work for a small and medium scale enterprise to help expand their business(s) by modernizing their systems and business flow using my data analytics and business management skills. 
 
-[![Site preview]https://github.com/ParvinderKaur014/Portfolio/blob/main/GanttChart.PNG
+![Site preview](https://github.com/ParvinderKaur014/Portfolio/blob/main/GanttChart.PNG)
 
 **Beginning**- It all started when I was exploring the world class education service in different countries. I got to know Canada to be the best for International student to grow personally and professionally. As soon as, I landed up and met cross-culture environment. This step helped me developing a sense of team work and also enabled me to share and absorb diversified ideas and skills which is not possible with remote interaction. In Planning phase, I had made my "To-Do List". Based on it, I have researched for all the positive and negative impacts of the same.
 
